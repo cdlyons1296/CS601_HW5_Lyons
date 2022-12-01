@@ -1,0 +1,12 @@
+#data {
+    color: rgb(13, 13, 55);
+    font-size: larger;
+    margin-top: 25px;
+}
+button{
+    background-color: rgb(149, 202, 217);
+    color: darkblue;
+    width: 250px;
+    height: 25px;
+    font-weight: 600;
+}
