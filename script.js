@@ -1,4 +1,4 @@
-async function getDegrees(){
+function getDegrees(){
 fetch("https://low-malleable-router.glitch.me/my_degrees.json").then((response) =>{
     console.log('resolved', response);
     return response.json();
