@@ -1,0 +1,40 @@
+{
+    "my_degrees": [
+
+       {
+        "degree":{
+            "School" : "University of Kansas",
+            "Program/Major" : "Journalism",
+            "Type" : "BS",
+            "Year conferred" :"2008"
+                 }
+       },
+       {
+        "degree":{
+            "School" : "University of Kansas",
+            "Program/Major" : "Political Science",
+            "Type" : "BS",
+            "Year conferred" :"2008"
+                 }
+
+       },
+       {
+        "degree":{
+            "School" : "Boise State University",
+            "Program/Major" : "Educational Technology",
+            "Type" : "Masters",
+            "Year conferred" :"2020"
+                 }
+
+       },
+       {
+       "degree":{
+        "School" : "Boston University",
+        "Program/Major" : "Computer Information Systems",
+        "Type" : "MS",
+        "Year conferred" :"2023"
+                 }
+       }
+
+    ]
+}
